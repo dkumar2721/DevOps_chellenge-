@@ -1,0 +1,23 @@
+## DAY_3 ##
+  i setted up my linux platform and configured with my gith and github & gitlab.
+
+#####Summary of Git Commands Used ########
+  
+git init: Initializes a new Git repository.
+git clone: Copies a remote repository to your local machine.
+git config: Configures user details like name and email.
+git checkout -b : Creates and switches to a new branch.
+git add .: Stages all changes for commit.
+git commit -m "message": Saves changes to the repository with a message.
+git push origin : Pushes local changes to a remote repository.
+git pull origin main: Fetches and merges the latest changes from the main branch.
+git merge : Merges another branch into the current branch.
+git log: Displays the commit history.
+git diff: Shows changes between commits, branches, or the working directory and staging area.
+git branch -d : Deletes a local branch.
+git push origin --delete : Deletes a remote branch.
+
+HEAD: Represents the current branch or commit you are working on.
+origin: The default name for the remote repository from which the local repository was cloned.
+  
+--------------------------------------------------------------------------------------------------------------------------
